@@ -1,6 +1,8 @@
 # OCR System for archiving scanned Han-Nom documents (image to text)
 
-Example input: ![Truyen Kieu (1866 version) - Page 01A](1866-truyen-kieu-p01a)
+Example input:
+
+![Truyen Kieu (1866 version) - Page 01A](1866-truyen-kieu-p01a.jpg)
 
 Example output:
 
